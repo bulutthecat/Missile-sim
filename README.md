@@ -2,11 +2,11 @@
 
 A simple simulator that demonstrates basic mathematical principles in a real world scenario.
 
-## What is Missile Sim?
+## What is Missile Sim.?
 
-It is a small project I wrote, that applies a Kalman filter to simulate a missile leading a target.
+Missile Sim is a small project, employing a Kalman filter to simulate a missile effectively tracking a target.
 
-## What other functions does Missile Sim posess?
+## Additional Features
 
 Along with simulating a simple missile/projectile, Missile Sim also simulates the following:
 
@@ -18,12 +18,11 @@ Along with simulating a simple missile/projectile, Missile Sim also simulates th
 - Dynamic drag calculations applied based on missile cross-section and air density
 - randomized 3D vector for wind simulation, applied on all objects in the simulation
 - Initial launch velocity
-- 3D graph displaying missile possitions and intercepts
-*the math took me way too long*
+- 3D graph displaying missile possitions and intercepts (*the math took me way too long*)
 
-## how to use
+## How to Use
 
-install the requirments through pip and run track.py
+Install the requirements through `pip` and run `track.py`
 
 ## TODO
 
